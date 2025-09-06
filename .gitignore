@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Dependencies and build folders
+/node_modules
+/dist
+/build
+
+# Python-specific files
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+Thumbs.db
